@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="7" failures="0" disabled="0" errors="0" time="0.017" timestamp="2021-09-02T15:42:03" name="AllTests">
+  <testsuite name="PizzaMakerTest" tests="7" failures="0" disabled="0" errors="0" time="0.017" timestamp="2021-09-02T15:42:03">
+    <testcase name="RunsWithInput" status="run" result="completed" time="0.002" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+    <testcase name="AsksUserForToppings" status="run" result="completed" time="0.003" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+    <testcase name="CreatesSimplePizza" status="run" result="completed" time="0.002" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+    <testcase name="PizzaWithOnlyPepperoni" status="run" result="completed" time="0.003" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+    <testcase name="PizzaWithOnlyOnion" status="run" result="completed" time="0.002" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+    <testcase name="PizzaWithOnlyJalapeno" status="run" result="completed" time="0.002" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+    <testcase name="NoPizza" status="run" result="completed" time="0.003" timestamp="2021-09-02T15:42:03" classname="PizzaMakerTest" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="7" failures="0" disabled="0" errors="0" time="0.094" timestamp="2021-09-03T12:48:16" name="AllTests">
+  <testsuite name="Operations" tests="7" failures="0" disabled="0" errors="0" time="0.094" timestamp="2021-09-03T12:48:16">
+    <testcase name="ExecutesAndExitsWithInput" status="run" result="completed" time="0.002" timestamp="2021-09-03T12:48:16" classname="Operations" />
+    <testcase name="OutputFormat" status="run" result="completed" time="0.001" timestamp="2021-09-03T12:48:16" classname="Operations" />
+    <testcase name="Addition" status="run" result="completed" time="0.017" timestamp="2021-09-03T12:48:16" classname="Operations" />
+    <testcase name="Subtraction" status="run" result="completed" time="0.019" timestamp="2021-09-03T12:48:16" classname="Operations" />
+    <testcase name="Multiplication" status="run" result="completed" time="0.018" timestamp="2021-09-03T12:48:16" classname="Operations" />
+    <testcase name="Division" status="run" result="completed" time="0.02" timestamp="2021-09-03T12:48:16" classname="Operations" />
+    <testcase name="FailCase" status="run" result="completed" time="0.017" timestamp="2021-09-03T12:48:16" classname="Operations" />
+  </testsuite>
+</testsuites>

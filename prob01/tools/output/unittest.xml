@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" time="2.561" timestamp="2021-08-31T19:47:54" name="AllTests">
+  <testsuite name="PizzaTest" tests="10" failures="0" disabled="0" errors="0" time="2.559" timestamp="2021-08-31T19:47:54">
+    <testcase name="ExecutesAndExits" status="run" result="completed" time="0.035" timestamp="2021-08-31T19:47:54" classname="PizzaTest" />
+    <testcase name="DoesNotWantPizza" status="run" result="completed" time="0.02" timestamp="2021-08-31T19:47:54" classname="PizzaTest" />
+    <testcase name="AsksAboutToppings" status="run" result="completed" time="0.034" timestamp="2021-08-31T19:47:54" classname="PizzaTest" />
+    <testcase name="PlainPizza" status="run" result="completed" time="0.327" timestamp="2021-08-31T19:47:54" classname="PizzaTest" />
+    <testcase name="SaucePizza" status="run" result="completed" time="0.367" timestamp="2021-08-31T19:47:55" classname="PizzaTest" />
+    <testcase name="CheesePizza" status="run" result="completed" time="0.334" timestamp="2021-08-31T19:47:55" classname="PizzaTest" />
+    <testcase name="PepperoniPizza" status="run" result="completed" time="0.338" timestamp="2021-08-31T19:47:55" classname="PizzaTest" />
+    <testcase name="JalapenoPizza" status="run" result="completed" time="0.355" timestamp="2021-08-31T19:47:56" classname="PizzaTest" />
+    <testcase name="OnionPizza" status="run" result="completed" time="0.331" timestamp="2021-08-31T19:47:56" classname="PizzaTest" />
+    <testcase name="EverythingPizza" status="run" result="completed" time="0.416" timestamp="2021-08-31T19:47:56" classname="PizzaTest" />
+  </testsuite>
+</testsuites>

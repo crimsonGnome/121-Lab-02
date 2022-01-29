@@ -1,0 +1,10 @@
+---
+MainSourceFile:  '/home/crimsongnome/Desktop/lab-02-crimsonGnome/prob02/input.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-return-type
+    DiagnosticMessage:
+      Message:         non-void function does not return a value in all control paths
+      FilePath:        input.cc
+      FileOffset:      688
+      Replacements:    []
+...
